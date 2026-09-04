@@ -47,9 +47,24 @@ FountainDrinks = 2.79
 BartenderDrinks = 4.69
 
 
+# Variable Naming Conventions
+# We use naming conventions because we cannot have spaces in
+# variable names
+
+# Camel Case - when creating variable names with multiple words
+# every new word begins with a capital letter
+# the reason why its called camel case is bc every new word
+# represents a hump.
+
+usernamesfornewinstagramaccounts = 0 #no camel case
+
+useernameForNewInstagramAccounts = 0 # with camel case
 
 
-
+ # Snake Case - when creating a variable using snake case
+ # we use a underscore symbol to space out each new word
+ # the reason why its called snake case is bc the underscore
+ # represents a snake on the ground  new_word_
 
 
 
