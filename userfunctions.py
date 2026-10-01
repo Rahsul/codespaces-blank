@@ -19,3 +19,5 @@
  # function invocation/ call
 
  # Function definition 
+
+ #  FUNCTIONS ARE JUST CODE INSTRUCTIONS
